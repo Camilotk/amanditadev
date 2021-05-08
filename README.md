@@ -1,4 +1,4 @@
-## Hey, its Amanda Martins 👋 
+# Hey, its Amanda Martins 👋 
 <div> 
   <img src="img/profile.png" align="right">
 
@@ -7,16 +7,15 @@
   <h3 align=left> I'm a Back-End student! </h3>
   <ul align="left">
     <li> 🌆 I'm from Sao Paulo, Brazil </li>
-    <li> 📚 Currently Bachelo's of Computer Science student </li>
+    <li> 📚 Currently a Bachelor's of Computer Science student </li>
     <li> 🌱 Learning NodeJS, TypeScript and APIs </li>
-    <li> 🕹 Content creation on [Instagram](instagram.com/amandamartinsco) </li>
+    <li> 🤖 Passionate about robotics </li>
+    <li> 🕹 Content creation on <a href="https://instagram.com/amandamartinsco">Instagram</a> </li>
   </ul>
 
   </div>
 
 </div>
-
-----
 
 <div style="display: inline-block;">
   <img src="https://camo.githubusercontent.com/937d189e89eebf19ca83d796f68380657645f49a05c9ef6fbc00020ff7ab32f9/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f68746d6c2d352e706e67" height="30"/>
