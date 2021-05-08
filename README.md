@@ -1,4 +1,6 @@
 ## Hey, its Amanda Martins 👋 
+ 
+<img src="img/profile.png" align="right">
 
 <div align="center">
  
@@ -9,8 +11,6 @@
   <li> 🌱 Learning NodeJS, TypeScript and APIs </li>
   <li> 🕹 Content creation on [Instagram](instagram.com/amandamartinsco) </li>
  </ul>
-
- <img src="img/profile.png" align="right">
 
 </div>
 
