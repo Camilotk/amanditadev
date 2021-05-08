@@ -10,7 +10,9 @@
     <li> 📚 Currently a Bachelor's of Computer Science student </li>
     <li> 🌱 Learning NodeJS, TypeScript and APIs </li>
     <li> 🤖 Passionate about robotics </li>
-    <li> 🕹 Content creation on <a href="https://instagram.com/amandamartinsco">Instagram</a> </li>
+    <li> ☁️ Cloud addicted </li>
+    <li> 🕹 Games & Tech content creation on <a href="https://instagram.com/amandamartinsco">Instagram</a> </li>
+    <li> 📃 Check out my resume <a href="/files/resume.pdf">here</a> </li>
   </ul>
 
   </div>
