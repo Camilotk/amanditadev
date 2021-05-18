@@ -4,11 +4,11 @@
 
   <div align="center">
 
-  <h3 align=left> I'm a Back-End student! </h3>
+  <h3 align=left> I'm a Front-End developer! </h3>
   <ul align="left">
     <li> 🌆 I'm from Sao Paulo, Brazil </li>
     <li> 📚 Currently a Bachelor's of Computer Science student </li>
-    <li> 🌱 Learning NodeJS, TypeScript and APIs </li>
+    <li> 🌱 Learning React.JS and Next.JS </li>
     <li> 🤖 Passionate about robotics </li>
     <li> ☁️ Cloud addicted </li>
     <li> 🕹 Games & Tech content creation on <a href="https://instagram.com/amandamartinsco">Instagram</a> </li>
