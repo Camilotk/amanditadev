@@ -11,7 +11,7 @@
     <li> 🌱 Learning Vue.js and Nuxt.js </li>
     <li> 🤖 Passionate about robotics </li>
     <li> ☁️ Cloud addicted </li>
-    <li> 🕹 Games & Tech content creation on <a href="https://instagram.com/amandamartinsco">Instagram</a> </li>
+    <li> 🕹 Games & Tech content creation on <a href="https://instagram.com/amanditadev">Instagram</a> </li>
     <li> 📃 Check out my resume <a href="/files/resume.pdf">here</a> </li>
   </ul>
 
