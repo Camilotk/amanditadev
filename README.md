@@ -14,8 +14,6 @@ Check out my `📃 {resume}` on <a href="/files/resume.pdf">english</a> or <a hr
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/nuxt.js-%2300C58E.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ***Click <a href="/SKILLS.md">here</a> for more cool skills.***
