@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/microsoft%20edge-%230078D7.svg?&style=for-the-badge&logo=microsoft%20edge&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/obs%20studio-%23302E31.svg?&style=for-the-badge&logo=obs%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/font%20awesome-%23339AF0.svg?&style=for-the-badge&logo=font%20awesome&logoColor=white" />
   <img src="https://img.shields.io/badge/ant%20design-%230170FE.svg?&style=for-the-badge&logo=ant%20design&logoColor=white" />
