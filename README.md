@@ -1,8 +1,8 @@
 # Hey, its Amanda 👋 
 
-I'm a `👩‍🚀 {Front-End developer}` and `📚 {Bachelor's of Computer Science student}` based on `🌆 {Sao Paulo, Brazil}`.
+I'm a `👩‍🚀 {Software Developer}` and `📚 {Bachelor's of Computer Science student}` based on `🌆 {Sao Paulo, Brazil}`.
 
-Also learning `🌱 {Vue.js and Nuxt.js}` and currently creating content about `💡 {games & tech}` on my [Instagram account](https://www.instagram.com/amanditadev/) and [Twitch channel](https://twitch.tv/amanditadev/)!
+Also learning `🌱 {Web Development}` and currently creating content about `💡 {games & tech}` on my [Instagram account](https://www.instagram.com/amanditadev/) and [Twitch channel](https://twitch.tv/amanditadev/)!
 
 Check out my `📃 {resume}` on <a href="/files/resume.pdf">english</a> or <a href="/files/currículo.pdf">portuguese</a>.
 
