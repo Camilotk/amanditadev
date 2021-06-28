@@ -4,7 +4,7 @@ I'm a `👩‍🚀 {Software Developer}` and `📚 {Bachelor's of Computer Scien
 
 Also learning `🌱 {Web Development}` and currently creating content about `💡 {games & tech}` on my [Instagram account](https://www.instagram.com/amanditadev/) and [Twitch channel](https://twitch.tv/amanditadev/)!
 
-Check out my `📃 {resume}` on <a href="/files/resume.pdf">english</a> or <a href="/files/currículo.pdf">portuguese</a>.
+Check out my `📃 {resume}` on <a href="/files/resume.pdf">english</a> or <a href="/files/curriculo.pdf">portuguese</a>.
 
 ## 📚 Skills
 
