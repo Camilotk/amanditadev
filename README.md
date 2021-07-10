@@ -1,6 +1,6 @@
 # Hey, its Amanda 👋 
 
-I'm a `👩‍🚀 {Software Developer}` and `📚 {Bachelor's of Computer Science student}` based on `🌆 {Sao Paulo, Brazil}`.
+I'm a `👩‍🚀 {Web Developer}` and `📚 {Bachelor's of Computer Science student}` based on `🌆 {Sao Paulo, Brazil}`.
 
 Also learning `🌱 {Web Development}` and currently creating content about `💡 {games & tech}` on my [Instagram account](https://www.instagram.com/amanditadev/) and [Twitch channel](https://twitch.tv/amanditadev/)!
 
